@@ -87,6 +87,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page for the next step.
+### Done
 
 </details>
 
